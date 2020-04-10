@@ -1,1 +1,2 @@
-code a project and use git to manage teams 
+code a project and use git to manage teams
+game to code
